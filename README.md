@@ -6,6 +6,7 @@ Prerequisites
 Make sure you have Node.js and npm installed. You can install them from here.
 
 Installation
+
 Clone the repository:
 
 
